@@ -2,7 +2,7 @@
 
 Master Student - Electrical and Computer Engineering @ FEUP
 
-[Personal Page](http://inesosoares6.github.io) | [LinkedIn](https://www.linkedin.com/in/ines-soares) | [Drive](https://drive.google.com/drive/folders/19vQcMkU6VvguD7HfsRRtJksrcpaIfRVu?usp=sharing)
+[Personal Page](http://inesosoares6.github.io) | [LinkedIn](https://www.linkedin.com/in/ines-soares) | [CV](https://drive.google.com/drive/folders/19vQcMkU6VvguD7HfsRRtJksrcpaIfRVu?usp=sharing)
 
 <!--
 **inesosoares6/inesosoares6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
