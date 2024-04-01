@@ -1,6 +1,6 @@
 ### Hi, I'm Inês Soares!
 
-- Web Developer - Frontend @ Kaizen Gaming
+- Web Developer - Frontend
 
 - Master in Electrical and Computer Engineering @ FEUP
 
