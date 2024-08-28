@@ -1,6 +1,6 @@
 ### Hi, I'm Inês Soares!
 
-- Web Developer - Frontend
+- Web Developer - Frontend 👩‍💻
 
 [Personal Website](http://inesosoares6.github.io) | [LinkedIn](https://www.linkedin.com/in/ines-soares) | [CV](https://drive.google.com/drive/folders/19vQcMkU6VvguD7HfsRRtJksrcpaIfRVu?usp=sharing)
 
