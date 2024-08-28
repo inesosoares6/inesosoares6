@@ -5,9 +5,9 @@ Hey there, I'm Inês and I love creating new things. I've been working as a Fron
 
 ⚡ [Personal Website](http://inesosoares6.github.io)
 
-📝 [CV](https://drive.google.com/drive/folders/19vQcMkU6VvguD7HfsRRtJksrcpaIfRVu?usp=sharing)
-
 💻 [LinkedIn](https://www.linkedin.com/in/ines-soares/)
+
+📝 [CV](https://drive.google.com/drive/folders/19vQcMkU6VvguD7HfsRRtJksrcpaIfRVu?usp=sharing)
 
 
 <!--
